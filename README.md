@@ -5,3 +5,9 @@
 медсестры, дежурившие в указанном отделении;
 всех дежурствах (в любых палатах) в указанную смену в указанном отделении.
 ## Скрины работы программы
+![Screenshot_1](https://user-images.githubusercontent.com/93394154/176415991-87ce5ef2-4e89-446f-b990-af7196816dc8.png)
+![Screenshot_2](https://user-images.githubusercontent.com/93394154/176415999-24fd0277-83d5-459e-a28c-80bf4a51fb22.png)
+![Screenshot_3](https://user-images.githubusercontent.com/93394154/176416003-9aff1095-3891-48e7-97d9-16143875933c.png)
+![Screenshot_4](https://user-images.githubusercontent.com/93394154/176416008-127b9499-641a-4d86-aa7d-4341ac460f54.png)
+![Screenshot_5](https://user-images.githubusercontent.com/93394154/176416012-820fc8ef-9cd3-42e5-90f3-32ca64881780.png)
+![Screenshot_6](https://user-images.githubusercontent.com/93394154/176416016-cc370538-dfd5-4c41-affd-59ba6146035f.png)
